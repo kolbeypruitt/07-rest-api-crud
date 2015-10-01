@@ -1,0 +1,26 @@
+{
+  "name": "express-api",
+  "version": "1.0.0",
+  "description": "my first api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kolbeypruitt/07-rest-api-crud.git"
+  },
+  "author": "K0LB3Y",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kolbeypruitt/07-rest-api-crud/issues"
+  },
+  "homepage": "https://github.com/kolbeypruitt/07-rest-api-crud#readme",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3",
+    "monk": "^1.0.1"
+  }
+}
+
+
